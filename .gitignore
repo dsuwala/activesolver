@@ -38,6 +38,3 @@ rename.sh
 build/
 examples/png/
 data/
-
-#compile commands
-compile_commands.json
